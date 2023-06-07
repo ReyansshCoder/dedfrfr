@@ -1,0 +1,23 @@
+body{
+background-color: chartreuse;
+}
+
+#ank{
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+#Samay{
+    font-size: 25px;
+    margin-right: 20px;
+    float: right;
+}
+
+p{
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#rooprekha_v2{
+    color: crimson;
+}
